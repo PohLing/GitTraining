@@ -5,3 +5,4 @@ Modify again -- 3rd time
 # test line
 Modify again -- 4th time
 Modify again -- 5th time
+Modify again -- 6th time (to try amend commit command)
