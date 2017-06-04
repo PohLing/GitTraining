@@ -1,3 +1,4 @@
 File used to try amend commit command
 Modify 1st time
 Modify at branch master and testing
+Modify at branch testing2
